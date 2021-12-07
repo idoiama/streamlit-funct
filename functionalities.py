@@ -6,11 +6,11 @@ from PIL import Image
 import streamlit as st
 
 
-"""Data-rockstars :guitar:"""
+
 
 # Define a title
-st.title("Tutorial de Streamlit")
-
+st.title("Data-rockstars :guitar:")
+""Streamlit-tutorial""
 # Define Header/Subheader
 st.header("This is a header")
 st.subheader("This is a subheader")
