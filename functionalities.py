@@ -26,8 +26,6 @@ st.header("Tex colors and error meassgaes")
 st.success("Successful")
 st.info("Information!")
 st.warning("warning")
-st.error("Error")
-st.exception("NameError('not defined')")
 
 # WIDGETS
 st.header("Widgets:")
